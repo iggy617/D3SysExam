@@ -1,3 +1,0 @@
-a. img {
-b. width:100px;
-c. height:auto;
