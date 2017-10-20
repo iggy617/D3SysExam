@@ -1,0 +1,17 @@
+total 3224
+drwx------+ 16 a00830740  AD\Domain Users      544 Oct 20 14:46 .
+drwxr-xr-x+ 19 a00830740  AD\Domain Users      646 Oct 20 13:52 ..
+-rw-r--r--@  1 a00830740  AD\Domain Users     8196 Oct 20 14:43 .DS_Store
+-rw-r--r--   1 a00830740  AD\Domain Users        0 Oct 20 12:38 .localized
+-rw-r--r--@  1 a00830740  AD\Domain Users     2181 Oct 19 12:47 A00830740_Trinidad_Luigi.rtf
+drwxr-xr-x   4 a00830740  AD\Domain Users      136 Oct 20 14:27 Backup
+-rwxr-xr-x@  1 a00830740  AD\Domain Users    29108 Sep  6 18:09 Class01_Navigation.pdf
+-rw-r--r--@  1 a00830740  AD\Domain Users    93607 Oct 20 13:06 Class02_ShellCommands.pdf
+-rwxrwxrwx@  1 a00830740  AD\Domain Users    65529 Sep 19 20:52 Class03_ShellCommands_Permissions.pdf
+-rw-r--r--@  1 a00830740  AD\Domain Users    30422 Oct 20 13:06 Class06_Git-Commands.pdf
+drwx------   5 a00830740  AD\Domain Users      170 Oct 20 14:27 Dino_Trinidad_Exercise02
+-rw-r--r--   1 a00830740  AD\Domain Users  1363855 Oct 20 13:53 Dino_Trinidad_Exercise02.zip
+-rwxr-xr-x@  1 a00830740  AD\Domain Users    43254 Oct 19 21:22 FinalExam.pdf
+drwx------@ 12 a00830740  AD\Domain Users      408 Sep 20  2016 aws
+-rw-r--r--   1 a00830740  AD\Domain Users        0 Oct 20 14:46 desk-topls.txt
+drwxr-xr-x   4 a00830740  AD\Domain Users      136 Oct 20 14:23 git
